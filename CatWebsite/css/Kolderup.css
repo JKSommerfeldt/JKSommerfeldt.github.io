@@ -1,0 +1,28 @@
+
+
+html {
+    
+    background-image:url(../Images/giftly.png);
+}
+
+
+a {
+    color: greenyellow;
+}
+
+body {
+    width;700px;
+    padding:50px;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+body {text-align:center;
+font-family: American Typewriter;
+}
+
+body {
+    border: 10px solid#000;
+background-color: red;}
